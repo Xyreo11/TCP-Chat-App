@@ -1,16 +1,15 @@
 
-# 🌸 KawaiiChat 🌸
 
-A cute, socket-based chat application with a kawaii pink theme.
+A socket-based chat application with a kawaii pink theme.
 
 ## Features
 
-- 💕 Adorable pink coquette UI theme
-- 👤 User authentication system
-- 💬 Real-time messaging
-- 📨 Offline message storage
-- 🔍 Contact search
-- 😊 Emoji picker
+- Adorable pink coquette UI theme
+- User authentication system
+- Real-time messaging
+- Offline message storage
+- Contact search
+- Emoji picker
 
 ## Requirements
 

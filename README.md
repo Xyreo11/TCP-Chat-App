@@ -1,6 +1,6 @@
 
 
-A socket-based chat application with a kawaii pink theme.
+A socket-based chat application with a pink theme.
 
 ## Features
 
